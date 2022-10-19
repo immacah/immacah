@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @immacah
+- 👋 Hi, I’m Nabunya Immaculate
 - 👀 I’m interested in PROGRAMMING
-- 🌱 I’m currently learning HOW TO BUILD APPS USING FLUTTER.
+- 🌱 I’m currently learning some python and HOW TO BUILD APPS USING FLUTTER.
 - 💞️ I’m looking to collaborate on PROJECTS CONCERNED WITH PROGRAMMING
 - 📫 How to reach me WHATSAPP +256779626969,Gmail. immacah@gmail.com, twitter. @immacaH
 
